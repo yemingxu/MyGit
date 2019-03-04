@@ -1,5 +1,2 @@
 
-set tag b.txt 1.0.0
-
-b.txt new year 1
-
+b.txt new year 2
